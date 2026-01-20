@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, soy Efrén 👨‍🏫
 
-<!--
-**Efren-Sanchez/Efren-Sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Profesor de Informática | Fullstack Developer | Especialista en DAM
 
-Here are some ideas to get you started:
+Me dedico a la formación de futuros desarrolladores en Ciclos Formativos de Grado Superior. Mi enfoque es la **reconstrucción cognitiva** a través del código: menos teoría abstracta, más lógica contundente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack Tecnológico
+
+### Docencia y Desarrollo
+* **Lenguajes:** Java (Core, JDBC, Swing/JavaFX), PHP, JavaScript (ES6+).
+* **Web:** HTML5, CSS3 (Flexbox/Grid), MySQL.
+* **Sistemas:** Administración de sistemas, virtualización y despliegue.
+
+### Especialización DAM
+* Desarrollo de interfaces.
+* Programación de servicios y procesos.
+* Sistemas de gestión empresarial (ERP).
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Efren-Sanchez&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Efren-Sanchez&layout=compact&theme=dark)
+
+---
+
+## 📂 Repositorios Destacados
+* **[Nombre del Repo]:** Recursos y ejercicios para el módulo de [Nombre del Módulo].
+* **[Nombre del Repo]:** Proyecto Fullstack integrando PHP y MySQL.
+
+---
+
+## ✉️ Contacto
+* **LinkedIn:** [Tu Link]
+* **Web/Portfolio:** [Tu Link]
