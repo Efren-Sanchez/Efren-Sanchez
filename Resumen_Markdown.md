@@ -1,12 +1,12 @@
-# 📚 Introducción a Markdown
+# Introducción a Markdown
 
 Markdown es un lenguaje de marcado ligero, fácil de aprender y muy usado para escribir documentación, apuntes, README en proyectos, blogs técnicos y más. Permite crear contenido con formato usando una sintaxis simple y legible.
 
-A continuación, tienes una **chuleta rápida** con los elementos esenciales de Markdown. Al final, se indican formas de convertir estos archivos `.md` a PDF, HTML y otros formatos.
+A continuación, tienes una **guía rápida** con los elementos esenciales de Markdown. Al final, se indican formas de convertir estos archivos `.md` a PDF, HTML y otros formatos.
 
 ---
 
-# 📝 Chuleta de Sintaxis Markdown
+# Sintaxis Markdown
 
 ## 1. Encabezados
 
