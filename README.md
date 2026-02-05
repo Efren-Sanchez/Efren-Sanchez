@@ -48,8 +48,9 @@
 ---
 
 ## Contacto
-* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efren-sanchez-lopez/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efren-sanchez-lopez/)
+![Web](https://img.shields.io/badge/Web_Personal-000000?style=for-the-badge&logo=githubpages&logoColor=white)
 <!--
 * **Web/Portfolio:** [Tu Link]
 -->
