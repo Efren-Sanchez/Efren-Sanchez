@@ -22,9 +22,9 @@
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Efren-Sanchez&show_icons=true&theme=dark)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Efren-Sanchez&layout=compact&theme=dark)
 -->
-### ¡Hola! Soy Efrén 👋
 
 ![Seguidores](https://img.shields.io/github/followers/Efren-Sanchez?style=for-the-badge)
+![Repos públicos](https://img.shields.io/badge/Repos%20p%C3%BAblicos-3-4CAF50?style=for-the-badge)
 ![Repos públicos](https://img.shields.io/github/repos/Efren-Sanchez?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Efren-Sanchez&style=for-the-badge)
 
