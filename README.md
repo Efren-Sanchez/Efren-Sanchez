@@ -28,7 +28,6 @@
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-
 <!--
 ![PL/I](https://img.shields.io/badge/PL/I-6600CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMNyAxMFY5SDEwVjdsMiAyTDkgMTNWNTRIMTVWMThMMTEgMTJMMTEgMjBDMTMgMjFDMTMgMjIgMTIgMjJDMTEgMjIgMTEgMjEgMTEgMjBIMTVDMTcgMTkgMTcgMTggMTcgMThWMTRIMTljLTIgMS0zIDEtMyAxVjEwaC0zTDEyIDJ6IiBmaWxsPSJjdXJyZW50Q29sb3IiLz4KPC9zdmc+&logoColor=white)
 ![JCL](https://img.shields.io/badge/JCL-007ACC?style=for-the-badge&logo=ibm&logoColor=white)
@@ -42,15 +41,15 @@
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Efren-Sanchez&show_icons=true&theme=dark)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Efren-Sanchez&layout=compact&theme=dark)
 -->
-
 ![Seguidores](https://img.shields.io/github/followers/Efren-Sanchez?style=for-the-badge)
 ![Repos públicos](https://img.shields.io/badge/Repos%20p%C3%BAblicos-3-4CAF50?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Efren-Sanchez&style=for-the-badge)
 
 ---
 
-<!--
 ## Contacto
-* **LinkedIn:** [Tu Link]
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efren-sanchez-lopez/)
+
+<!--
 * **Web/Portfolio:** [Tu Link]
 -->
