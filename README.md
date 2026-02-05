@@ -23,6 +23,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+
 <!--
 ![PL/I](https://img.shields.io/badge/PL/I-6600CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMNyAxMFY5SDEwVjdsMiAyTDkgMTNWNTRIMTVWMThMMTEgMTJMMTEgMjBDMTMgMjFDMTMgMjIgMTIgMjJDMTEgMjIgMTEgMjEgMTEgMjBIMTVDMTcgMTkgMTcgMTggMTcgMThWMTRIMTljLTIgMS0zIDEtMyAxVjEwaC0zTDEyIDJ6IiBmaWxsPSJjdXJyZW50Q29sb3IiLz4KPC9zdmc+&logoColor=white)
 ![JCL](https://img.shields.io/badge/JCL-007ACC?style=for-the-badge&logo=ibm&logoColor=white)
