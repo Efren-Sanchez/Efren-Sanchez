@@ -6,14 +6,11 @@
 
 Aquí puedes encontrar material didáctico que utilizo para mis clase. Sobre todo, ejercicios de programación.
 
---
 
 ## Repositorios
 
 - [Java](https://github.com/Efren-Sanchez/Java)
 - [Python](https://github.com/Efren-Sanchez/Python)
-
----
 
 ## Tecnologías
 
@@ -44,7 +41,6 @@ Aquí puedes encontrar material didáctico que utilizo para mis clase. Sobre tod
 ![JCL](https://img.shields.io/badge/JCL-007ACC?style=for-the-badge&logo=ibm&logoColor=white)
 ![DFSORT](https://img.shields.io/badge/DFSORT-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMNyAxMFY5SDEwVjdsMiAyTDkgMTNWNTRIMTVWMThMMTEgMTJMMTEgMjBDMTMgMjFDMTMgMjIgMTIgMjJDMTEgMjIgMTEgMjEgMTEgMjBIMTVDMTcgMTkgMTcgMTggMTcgMThWMTRIMTljLTIgMS0zIDEtMyAxVjEwaC0zTDEyIDJ6IiBmaWxsPSJjdXJyZW50Q29sb3IiLz4KPC9zdmc+Cg==&logoColor=white)
 -->
----
 
 ## Estadísticas de GitHub
 
@@ -55,8 +51,6 @@ Aquí puedes encontrar material didáctico que utilizo para mis clase. Sobre tod
 ![Seguidores](https://img.shields.io/github/followers/Efren-Sanchez?style=for-the-badge)
 ![Repos públicos](https://img.shields.io/badge/Repos%20p%C3%BAblicos-3-4CAF50?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Efren-Sanchez&style=for-the-badge)
-
----
 
 ## Contacto
 
