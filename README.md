@@ -4,6 +4,17 @@
 
 ---
 
+Aquí puedes encontrar material didáctico que utilizo para mis clase. Sobre todo, ejercicios de programación.
+
+--
+
+## Repositorios
+
+- [Java](https://github.com/Efren-Sanchez/Java)
+- [Python](https://github.com/Efren-Sanchez/Python)
+
+---
+
 ## Tecnologías
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
