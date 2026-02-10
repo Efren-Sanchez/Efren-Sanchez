@@ -48,7 +48,7 @@ Aquí puedes encontrar material didáctico que utilizo para mis clase. Sobre tod
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Efren-Sanchez&layout=compact&theme=dark)
 -->
 ![Seguidores](https://img.shields.io/github/followers/Efren-Sanchez?style=for-the-badge)
-![Repos públicos](https://img.shields.io/badge/Repos%20p%C3%BAblicos-3-4CAF50?style=for-the-badge)
+![Repos públicos](https://img.shields.io/badge/Repos%20p%C3%BAblicos-4-4CAF50?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Efren-Sanchez&style=for-the-badge)
 
 ## Contacto
