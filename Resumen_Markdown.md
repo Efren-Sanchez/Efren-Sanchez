@@ -100,7 +100,7 @@ function saludar() {
 
 ## Convertir Markdown a PDF, HTML y otros formatos
 
-Puedes usar varias herramientas para convertir archivos `.md` a otros formatos:
+Se pueden usar varias herramientas para convertir archivos `.md` a otros formatos:
 
 ### Herramientas en local:
 
