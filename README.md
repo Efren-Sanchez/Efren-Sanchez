@@ -4,7 +4,8 @@
 
 ---
 
-Aquí puedes encontrar material didáctico que utilizo para mis clase. Sobre todo, ejercicios de programación.
+En mi cuenta de GitHub puedes encontrar material didáctico que utilizo para mis clase. Sobre todo, ejercicios de programación.  
+En este repositorio puedes encontrar material que no tiene un repositorio propio.
 
 
 ## Repositorios
